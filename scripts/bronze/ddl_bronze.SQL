@@ -41,7 +41,7 @@ GO
 
     
  IF OBJECT_ID('bronze.crm_sales_details', 'U') IS NOT NULL
-  DROP TABLE bronze.crm_ales_details;
+  DROP TABLE bronze.crm_sales_details;
 GO
 
    CREATE TABLE bronze.crm_sales_details ( 
